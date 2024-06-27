@@ -1,4 +1,4 @@
-## Bienvenido a mi perfil de Git Hub 🚀
+## Bienvenido a mi perfil de Github 🚀
 
 **¡Hola! Soy Mari, una diseñadora UX/UI que se está formando como UX Engineer 🤖.** Estoy en un emocionante viaje de aprendizaje, profundizando mis conocimientos en varias áreas clave que complementan y expanden mis habilidades de diseño.
 
